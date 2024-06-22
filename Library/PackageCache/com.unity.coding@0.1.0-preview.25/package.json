@@ -1,0 +1,30 @@
+{
+  "name": "com.unity.coding",
+  "displayName": "Unity Coding Tools",
+  "version": "0.1.0-preview.25",
+  "unity": "2019.3",
+  "description": "Tooling and configurations to ensure code is automatically formatted, encoded, and linted according to standard Unity development conventions and best practices.",
+  "keywords": [
+    "unity",
+    "format",
+    "csharp",
+    "uncrustify",
+    "api scraping"
+  ],
+  "dependencies": {},
+  "relatedPackages": {
+    "com.unity.coding.tests": "0.1.0-preview.25"
+  },
+  "_upm": {
+    "changelog": "### Changed\n\n- Upgraded uncrustify binaries (lin64, mac64 and win32)."
+  },
+  "upmCi": {
+    "footprint": "714d139baf0364bb2f0620d901322ce3e5ccfb7f"
+  },
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.coding@0.1/manual/index.html",
+  "repository": {
+    "url": "https://github.com/Unity-Technologies/com.unity.coding.git",
+    "type": "git",
+    "revision": "c849110b2f5761efedc3518c838de52afc12ecad"
+  }
+}

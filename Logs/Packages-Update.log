@@ -1,0 +1,8 @@
+
+=== Thu Jun 20 08:07:08 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.nuget.newtonsoft-json from version 3.0.1 to 3.2.1

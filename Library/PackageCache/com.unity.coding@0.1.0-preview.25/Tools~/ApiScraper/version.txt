@@ -1,0 +1,4 @@
+Repository: https://github.com/Unity-Technologies/api-scraper
+Branch:   exclude_compiler_attributes
+* main
+Commit: 0b34321b5b37bf736e265332daedbc0a62524b21
